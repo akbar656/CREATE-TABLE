@@ -9,7 +9,10 @@ AGE INT);
 INSERT INTO STUDENT(ROLL_NUMBER,NAME,ADDRESS,AGE)VALUES
 ('1','AKBAR','KARACHI',16),
 ('2','ALI','LAHORE',15),
-('3','MUSA','ISLAMABAD',14);
+('3','MUSA','ISLAMABAD',14),
+('4','ariz','multan',12),
+('5','Taha','Karachi',16);
+
 
 
 SELECT * FROM Orders;
